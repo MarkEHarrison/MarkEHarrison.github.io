@@ -3814,10 +3814,10 @@ input, select, textarea {
 
 	#main > header {
 		padding: 12em 0 10em 0 ;
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/banner.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://res.cloudinary.com/dcmo9tfmu/image/upload/v1565709904/Screen_Shot_2019-08-13_at_8.24.20_AM_o1vbeh.png");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://res.cloudinary.com/dcmo9tfmu/image/upload/v1565709904/Screen_Shot_2019-08-13_at_8.24.20_AM_o1vbeh.png");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://res.cloudinary.com/dcmo9tfmu/image/upload/v1565709904/Screen_Shot_2019-08-13_at_8.24.20_AM_o1vbeh.png");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://res.cloudinary.com/dcmo9tfmu/image/upload/v1565709904/Screen_Shot_2019-08-13_at_8.24.20_AM_o1vbeh.png");
 		background-attachment: fixed;
 		background-position: center center;
 		background-repeat: no-repeat;
